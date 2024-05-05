@@ -1,3 +1,5 @@
-### Not one thing 👋
+![image](https://github.com/dagelf/noonething/assets/802628/06666c1a-d0fb-4a71-ab34-16abb1ad626d)
 
-When does the chicken/egg cycle end in Cybersecurity?
+Yes! See:
+
+(https://github.com/karpathy/llm.c/issues)
