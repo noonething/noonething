@@ -1,3 +1,3 @@
-### Not one thing 👋
+### Not one thing
 
-When does the chicken/egg cycle end in Cybersecurity?
+The only winning move is not to play.
