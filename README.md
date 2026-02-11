@@ -3,3 +3,5 @@
 Yes! See:
 
 (https://github.com/karpathy/llm.c/issues)
+
+Ty!
